@@ -8,4 +8,4 @@ In my research, I've found that real world applications involve a combination of
 
 Google uses a greedy algorithm in identifying available time slots, and it uses a greedy interval merging approach where events are sorted by start time, then merged if they overlap.
 
-Proposed improvements to my own scheduling would be a notification when meetings overlap, much like real world applications. I would also improve on the UI, and 
+Proposed improvements to my own scheduling would be a warning when meetings overlap, much like real world applications, and prompting the user to find a new time. I would also improve on the UI, as it's quite primitive compared to Google Calendar or Outlook's calendar.
